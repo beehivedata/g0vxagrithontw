@@ -1,28 +1,24 @@
-<b>待整理</b><br>
-https://g0v.hackpad.com/KW83vzwiWhc<br>
-https://g0v.hackpad.com/IDXUpPGCAJI<br>
-https://g0v.hackpad.com/p-2--d8jXCHnocke<br>
-https://g0v.hackpad.com/OpenFood-project-jArtZeaeUeL<br>
-https://g0v.hackpad.com/uRTlfG5CeIt<br>
-<br>
+https://g0v.hackpad.com/KW83vzwiWhc  抵制好朋友之即刻救援<br>
+https://g0v.hackpad.com/p-2--d8jXCHnocke  柯p 新政 #2 安心外食政策探討<br>
+https://g0v.hackpad.com/OpenFood-project-jArtZeaeUeL  OpenFood project<br>
+https://g0v.hackpad.com/IDXUpPGCAJI  食在安心<br>
+https://g0v.hackpad.com/Xs65FqdSPxJ  人類商業產品大全<br>
+https://g0v.hackpad.com/-Operation-Decent-tf4txwcUKV8  抵制大幫手 - Operation Decent<br>
+https://g0v.hackpad.com/uRTlfG5CeIt  開放食庫<br>
 https://github.com/g0v/awesome-tw-openagri	整理農業開放資料相關資源與專案<br>
-<br>
 https://g0v.hackpad.com/ep/group/tg4zk2ixiDn	超農域<br>
 https://g0v.hackpad.com/8Hlh2hux8xg	超農域<br>
 https://g0v.hackpad.com/UI-eohmes40fWn	超農域系統UI開發日誌<br>
 https://g0v.hackpad.com/--8O5yt2XfygI	超農域 - 醫農<br>
 https://g0v.hackpad.com/pOqWiKPcGwT	超農域：開發日誌(藥劑)<br>
-<br>
 https://g0v.hackpad.com/ep/group/y4HAXtPwPZN	農業<br>
 https://g0v.hackpad.com/jAFuERTpDC5	宜蘭農業<br>
 https://g0v.hackpad.com/gvkD1y2n6vg	農業生產者資訊揭露平台<br>
 https://g0v.hackpad.com/Seargetable-kCmdNxq7RUe	農作物開放資料(Seargetable)<br>
 https://g0v.hackpad.com/iuMVAk3xKLM	台灣農業活動行事曆<br>
 https://g0v.hackpad.com/Agricultural-trading-market-7qSSDcfa4gv	Agricultural-trading-market<br>
-<br>
 https://g0v.hackpad.com/ep/group/xVN6GhVrBA9	農委會<br>
 https://g0v.hackpad.com/S6d8yzph0VR	農業資料分類區<br>
-<br>
 https://g0v.hackpad.com/ep/group/BstoFrSz8FI	都市農業<br>
 https://g0v.hackpad.com/eMoZmke6Lc0	20140624-@全促會	<br>
 https://g0v.hackpad.com/pHMPzi7auuq	20140708-@中正社大	<br>

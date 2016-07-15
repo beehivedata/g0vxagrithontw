@@ -1,4 +1,4 @@
-//待整理 
+//待整理
 https://g0v.hackpad.com/KW83vzwiWhc
 https://g0v.hackpad.com/IDXUpPGCAJI
 https://g0v.hackpad.com/p-2--d8jXCHnocke

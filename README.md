@@ -5,7 +5,6 @@ https://g0v.hackpad.com/IDXUpPGCAJI  食在安心<br>
 https://g0v.hackpad.com/Xs65FqdSPxJ  人類商業產品大全<br>
 https://g0v.hackpad.com/-Operation-Decent-tf4txwcUKV8  抵制大幫手 - Operation Decent<br>
 https://g0v.hackpad.com/uRTlfG5CeIt  開放食庫<br>
-https://github.com/g0v/awesome-tw-openagri	整理農業開放資料相關資源與專案<br>
 https://g0v.hackpad.com/ep/group/tg4zk2ixiDn	超農域<br>
 https://g0v.hackpad.com/8Hlh2hux8xg	超農域<br>
 https://g0v.hackpad.com/UI-eohmes40fWn	超農域系統UI開發日誌<br>
